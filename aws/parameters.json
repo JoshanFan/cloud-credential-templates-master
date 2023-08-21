@@ -1,0 +1,11 @@
+[
+    {
+        "ParameterKey": "Password",
+        "ParameterValue": "MyPassword123"
+    },
+    {
+        "ParameterKey": "PolicyName",
+        "ParameterValue": "F5XCServiceAccountPolicyForAWSSite"
+    }
+    
+]
